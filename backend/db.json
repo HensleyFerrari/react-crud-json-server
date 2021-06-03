@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Arthur Oliveira",
+      "email": "aoliveira@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Maria Julia da Silva",
+      "email": "mjds@hotmail.com"
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "email": "cr7@yahoo.com.br",
+      "id": 3
+    }
+  ]
+}
